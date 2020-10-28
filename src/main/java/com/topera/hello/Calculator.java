@@ -11,5 +11,9 @@ class Calculator {
     {
         return a * b;
     }
+      int callSub(int a, int b)
+    {
+        return a-b;
+    }
 
 }
